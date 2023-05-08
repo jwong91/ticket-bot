@@ -7,4 +7,4 @@ ssh jtwong2@$1 'git clone https://github.com/jwong91/ticket-bot.git'
 scp -r ./secrets.json jtwong2@$1:~/ticket-bot/
 
 # SSH into remote machine and run setup script
-ssh jtwong2@$1 'bash -s' < . /home/jtwong2/ticket-bot/remote_setup.sh
+ssh jtwong2@$1 'bash -s' < cd /home/jtwong2/ticket-bot && ./remote_setup.sh
