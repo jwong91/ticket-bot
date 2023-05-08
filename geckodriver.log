@@ -1,0 +1,128 @@
+1683408464563	geckodriver	INFO	Listening on 127.0.0.1:49627
+1683408464587	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYWAJkE"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1683408465123	Marionette	INFO	Marionette enabled
+1683408465127	Marionette	INFO	Listening on port 43609
+Read port: 43609
+WebDriver BiDi listening on ws://127.0.0.1:59871
+1683408465229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYWAJkE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59871/devtools/browser/452286b5-c368-46ab-ad6a-f70ef73de32d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1683409102149	geckodriver	INFO	Listening on 127.0.0.1:33301
+1683409102189	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQSOjAS"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1683409102761	Marionette	INFO	Marionette enabled
+1683409102765	Marionette	INFO	Listening on port 44359
+Read port: 44359
+WebDriver BiDi listening on ws://127.0.0.1:46435
+1683409102854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQSOjAS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46435/devtools/browser/cdfda698-52e7-40cd-94ee-ce7531515e62
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1683479051934	geckodriver	INFO	Listening on 127.0.0.1:56461
+1683479052506	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6VASIj"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1683479053284	Marionette	INFO	Marionette enabled
+1683479053290	Marionette	INFO	Listening on port 43729
+Read port: 43729
+WebDriver BiDi listening on ws://127.0.0.1:40463
+1683479053416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6VASIj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40463/devtools/browser/71402285-8af2-4281-94fb-ea137c540226
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://twitter.com/home, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web-legacy/bundle.NetworkInstrument.9a08171a.js)
+JavaScript error: https://twitter.com/home, line 155: ChunkLoadError: Loading chunk loader.richScribeAction failed.
+(error: https://abs.twimg.com/responsive-web/client-web-legacy/loader.richScribeAction.f16650da.js)
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.1da6736a.js, line 82: Error: ApiError: https://twitter.com/i/api/1.1/strato/column/None/987904541403295744,Linux%2FFirefox,pushNotifications/clients/permissionsState HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.1da6736a.js, line 82: Error: ApiError: https://twitter.com/i/api/graphql/8VGs9OJbEiJj1J6EXbyhHA/HomeTimeline HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.1da6736a.js, line 82: Error: ApiError: https://api.twitter.com/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1683479114141	geckodriver	INFO	Listening on 127.0.0.1:52487
+1683479114704	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSBeyIl"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1683479115444	Marionette	INFO	Marionette enabled
+1683479115449	Marionette	INFO	Listening on port 33267
+Read port: 33267
+WebDriver BiDi listening on ws://127.0.0.1:57809
+1683479115577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSBeyIl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57809/devtools/browser/08d47466-4a1f-461f-8fe0-96f078f1bdb5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://twitter.com/home, line 155: ChunkLoadError: Loading chunk shared~loader.AudioDock~loader.DashMenu~loader.SideNav~loader.Typeahead~loader.AppModules~loader.DMDrawer~bun failed.
+(error: https://abs.twimg.com/responsive-web/client-web-legacy/shared~loader.AudioDock~loader.DashMenu~loader.SideNav~loader.Typeahead~loader.AppModules~loader.DMDrawer~bun.7633895a.js)
+JavaScript error: https://twitter.com/home, line 155: ChunkLoadError: Loading chunk shared~loader.AudioDock~loader.DashMenu~loader.SideNav~loader.Typeahead~loader.AppModules~loader.DMDrawer~bun failed.
+(error: https://abs.twimg.com/responsive-web/client-web-legacy/shared~loader.AudioDock~loader.DashMenu~loader.SideNav~loader.Typeahead~loader.AppModules~loader.DMDrawer~bun.7633895a.js)
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.1da6736a.js, line 82: Error: ApiError: https://twitter.com/i/api/1.1/strato/column/None/987904541403295744,Linux%2FFirefox,pushNotifications/clients/permissionsState HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.1da6736a.js, line 82: Error: ApiError: https://twitter.com/i/api/graphql/8VGs9OJbEiJj1J6EXbyhHA/HomeTimeline HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.1da6736a.js, line 82: Error: ApiError: https://api.twitter.com/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://twitter.com/home, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web-legacy/bundle.NetworkInstrument.9a08171a.js)
+JavaScript error: https://twitter.com/home, line 155: ChunkLoadError: Loading chunk loader.richScribeAction failed.
+(error: https://abs.twimg.com/responsive-web/client-web-legacy/loader.richScribeAction.f16650da.js)
+1683479139308	geckodriver	INFO	Listening on 127.0.0.1:44309
+1683479139857	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRgOrIg"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1683479140604	Marionette	INFO	Marionette enabled
+1683479140608	Marionette	INFO	Listening on port 32937
+Read port: 32937
+WebDriver BiDi listening on ws://127.0.0.1:34167
+1683479140752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRgOrIg/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34167/devtools/browser/bef7f89f-2c8e-46a5-9c99-02c8ddf0af1c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1683479149896	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.1da6736a.js, line 82: Error: ApiError: https://twitter.com/i/api/fleets/v1/fleetline HTTP-429 codes:[1003] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.1da6736a.js, line 82: Error: ApiError: https://twitter.com/i/api/fleets/v1/fleetline HTTP-429 codes:[1003] trace_ids:[null]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683558289803	geckodriver	INFO	Listening on 127.0.0.1:52243
+1683558290325	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "52513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7tJrsm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1683558290720	Marionette	INFO	Marionette enabled
+1683558290724	Marionette	INFO	Listening on port 37067
+Read port: 37067
+WebDriver BiDi listening on ws://127.0.0.1:52513
+1683558290837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7tJrsm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52513/devtools/browser/d51e0d5a-eab3-41f8-ae11-dce1ecb15021
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.1da6736a.js, line 82: Error: ApiError: https://api.twitter.com/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

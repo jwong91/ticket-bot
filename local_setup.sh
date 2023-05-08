@@ -8,4 +8,4 @@ scp -r ./secrets.json jtwong2@$1:~/ticket-bot/
 
 # SSH into remote machine and run setup script
 cd /home/jtwong2/ticket-bot/
-ssh jtwong2@$1 'bash -s' < ./remote_setup.sh
+ssh jtwong2@$1 'bash -s' < . remote_setup.sh
