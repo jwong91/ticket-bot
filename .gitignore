@@ -160,4 +160,3 @@ cython_debug/
 
 .vscode
 secrets.json
-bots/dm_list.txt
