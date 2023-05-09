@@ -79,6 +79,12 @@ class TwitterBot():
         .send_keys("\ue007")\
         .perform()
         time.sleep(1)
+        # Check to see if the user is the correct one
+        user_name = self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[2]/div/div[2]/div/div/div/div[2]/div[1]/div/div/div[2]/div/div/div/span").text[1:]
+        if user_name != recipient:
+            self.log("User " + recipient + " not found (did not come up first in the search bar)", WarnLevel.ERROR)
+            return
+
         user_acc = self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[2]/div/div[2]/div")
         ActionChains(self.driver)\
         .double_click(user_acc)\
@@ -89,7 +95,8 @@ class TwitterBot():
         time.sleep(1)
 
         TwitterBot.slow_type(self, message)
-        self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[3]/div").click()
+        # self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[3]/div").click()
+        input("waiting for supervisor confirmation...")
 
     def get_tickets(self, message_content):
         # config options and open browser
@@ -120,7 +127,7 @@ class TwitterBot():
                 self.log("Already messaged this user", WarnLevel.WARN)
             else:
                 message = "Hey there! I'm interested in your Taylor Swift tickets. I'm willing to pay the listed price for them. Please let me know if you're interested. Thanks!"
-                self.access_messages("utahzen", message + stats)
+                self.access_messages(seller_username, message + stats)
                 self.log("Messaged user", WarnLevel.INFO)
 
         # Keep track of who has been messaged
