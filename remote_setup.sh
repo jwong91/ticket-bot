@@ -8,4 +8,4 @@ sudo pip3 install -r requirements.txt
 # Launch bot
 cd /home/jtwong2/ticket-bot/bots/
 pwd
-python3 twitter_bot.py
+python3 twitter_bot.py & echo $! > /home/jtwong2/pid.txt
