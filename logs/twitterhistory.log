@@ -933,3 +933,17 @@ Quantity: 1
 Seller: kenpettywap
 Date: 6/9
 Should purchase: True
+
+[INFO 14:6:45]:Starting Twitter Bot
+
+[INFO 14:11:43]:Starting Twitter Bot
+
+[INFO 14:12:6]:
+Location: Detroit at Ford Field Stadium
+Price: $891
+Quantity: 1
+Seller: kenpettywap
+Date: 6/9
+Should purchase: True
+
+[WARN 14:12:6]:Already messaged this user

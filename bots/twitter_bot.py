@@ -14,11 +14,18 @@ import re
 import time
 import random
 import json
+from enum import Enum
 
 MIN_ADVANCE_DAYS = 7 # days
+
+class WarnLevel(Enum):
+    INFO = 1
+    WARN = 2
+    ERROR = 3
 class TwitterBot():
     def decide_purchase(self, show_date, min_days_in_advance=MIN_ADVANCE_DAYS):
         if show_date == date(2023, 5, 28): # Prefer Metlife tickets
+            self.log("Metlife show found, purchasing", WarnLevel.INFO)
             return True
 
         current_date = date.today()
@@ -32,7 +39,7 @@ class TwitterBot():
                user = data["twitter"]["user"]
                pw = data["twitter"]["pw"]
         except Exception as e:
-            print("[ERROR]: secrets.json not found (" + str(e) + ")")
+            self.log("secrets.json not found (" + str(e) + ")", WarnLevel.ERROR)
             return
 
         self.driver.get("https://twitter.com/ErasTourResell")
@@ -49,7 +56,6 @@ class TwitterBot():
         password_submit_button.click()
         time.sleep(1)
         self.driver.get("https://twitter.com/ErasTourResell")
-        # time.sleep(2)
 
     def slow_type(self, text, delay=0.0):
         # Send a text to an element one character at a time with a delay.
@@ -79,19 +85,13 @@ class TwitterBot():
         .perform()
         self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[1]/div/div/div/div/div/div[3]/div/div/div/span/span").click()
         time.sleep(0.5)
-        message_bar = self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[2]/div/div/div/div/div/label/div[1]/div/div/div/div/div/div[2]/div/div/div/div").click()
-        # ActionChains(self.driver)\
-        # .click(message_bar)\
-        # .perform()
+        self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[2]/div/div/div/div/div/label/div[1]/div/div/div/div/div/div[2]/div/div/div/div").click()
         time.sleep(1)
 
-        # self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[2]/div/div/div/div/div/label/div[1]/div/div/div/div/div/div[2]/div/div/div/div").send_keys("hi utahzen")
         TwitterBot.slow_type(self, message)
         self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[3]/div").click()
 
     def get_tickets(self, message_content):
-        # self.driver = webdriver.Firefox(service=Service(gecko().install()))
-
         # config options and open browser
         options = FirefoxOptions()
         options.add_argument("--headless")
@@ -100,49 +100,55 @@ class TwitterBot():
         TwitterBot.twitter_login(self)
         self.driver.implicitly_wait(8)
 
-        print("\nItem: " + message_content)
         location = re.search(r"show in.*?/", message_content).group().replace("show in", "").replace("on", "")[:-2].rstrip().lstrip()
-        print("\nLocation: \"" + location + "\"") # it was a syntax error on using match()
         price = re.search(r"Selling for \$(\d+) ", message_content).group().replace("Selling for ", "").rstrip().lstrip()
-        print("Price: " + price)
         quantity = re.search(r"[(](\d+)[)]", message_content).group().replace("(", "").replace(")", "")
-        print("Quantity: " + quantity)
         seller_username = re.search(r"DM *@[A-Za-z0-9_]+", message_content).group().replace("DM", "").replace("@", "").lstrip().rstrip()
-        print("Seller: " + seller_username)
         event_date = re.search(r"(\d+/\d+)", message_content).group()
-        print("Date: " + event_date)
 
         # Determine if the event is far enough into the future
         shouldPurchase = self.decide_purchase(date(2023, int(event_date.split("/")[0]), int(event_date.split("/")[1])))
 
-        # Write to log file
+        # Log offer details
         stats = "\nLocation: " + location + "\nPrice: " + price + "\nQuantity: " + quantity + "\nSeller: " + seller_username + "\nDate: " + event_date + "\nShould purchase: " + str(shouldPurchase)
-        with open("../logs/twitterhistory.log", "a") as f:
-            f.write("\n\n[" + str(datetime.now().time().hour) + ":" + str(datetime.now().time().minute) + ":" + str(datetime.now().time().second) + "]:" + stats)
+        self.log(stats, WarnLevel.INFO)
 
-        with open("dm_list.txt", "r") as f:
+        # Decide whether to purchase or not (and purchase if so)
+        with open("dm_list.txt", "r+") as f:
             dm_list = f.read().splitlines()
             if seller_username in dm_list or not shouldPurchase:
-                print("[WARN] Already messaged this user")
+                self.log("Already messaged this user", WarnLevel.WARN)
             else:
                 message = "Hey there! I'm interested in your Taylor Swift tickets. I'm willing to pay the listed price for them. Please let me know if you're interested. Thanks!"
                 self.access_messages("utahzen", message + stats)
+                self.log("Messaged user", WarnLevel.INFO)
 
-        with open("dm_list.txt", "a") as f:
+        # Keep track of who has been messaged
+        with open("dm_list.txt", "a+") as f:
             f.write(seller_username + "\n")
 
-        time.sleep(5)
         self.driver.close()
         return stats
 
+    def log(self, message, type):
+        if type == WarnLevel.INFO:
+            prefix = "INFO"
+        elif type == WarnLevel.WARN:
+            prefix = "WARN"
+        elif type == WarnLevel.ERROR:
+            prefix = "ERROR"
+
+        with open("../logs/twitterhistory.log", "a+") as f:
+            f.write("\n\n[" + prefix + " " + str(datetime.now().time().hour) + ":" + str(datetime.now().time().minute) + ":" + str(datetime.now().time().second) + "]:" + message)
 
     def main(self):
+        self.log("Starting Twitter Bot", WarnLevel.INFO)
         try:
             with open("../secrets.json") as f:
                data = json.load(f)
                token = data["bot-token"]["token"]
         except Exception as e:
-            print("[ERROR]: secrets.json not found (" + str(e) + ")")
+            self.log("Secrets.json not found (" + str(e) + ")", WarnLevel.ERROR)
             return
 
         client = discord.Client()
@@ -166,7 +172,6 @@ class TwitterBot():
                     # time.sleep(fuzzy_time)
 
         client.run(token)
-
 
         self.driver.quit()
 
