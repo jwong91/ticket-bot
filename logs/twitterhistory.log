@@ -911,3 +911,25 @@ Location: Detroit at Ford Field Stadium
 Price: $891
 Quantity: 1
 Seller: kenpettywap
+
+[0:11:38]:
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $355
+Quantity: 1
+Seller: makingmy0wnname
+
+[0:14:2]:
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $355
+Quantity: 1
+Seller: makingmy0wnname
+Date: 5/14
+Should purchase: False
+
+[0:14:39]:
+Location: Detroit at Ford Field Stadium
+Price: $891
+Quantity: 1
+Seller: kenpettywap
+Date: 6/9
+Should purchase: True
