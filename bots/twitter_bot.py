@@ -101,7 +101,7 @@ class TwitterBot():
     def get_tickets(self, message_content):
         # config options and open browser
         options = FirefoxOptions()
-        options.add_argument("--headless")
+        # options.add_argument("--headless")
         self.driver = webdriver.Firefox(options=options, service=Service(gecko().install()))
 
         TwitterBot.twitter_login(self)
