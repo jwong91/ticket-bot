@@ -146,7 +146,10 @@ class TwitterBot():
             prefix = "ERROR"
 
         with open("../logs/twitterhistory.log", "a+") as f:
-            f.write("\n\n[" + prefix + " " + str(datetime.now().time().hour) + ":" + str(datetime.now().time().minute) + ":" + str(datetime.now().time().second) + "]:" + message)
+            dt = datetime.now()
+            msg = "\n\n[" + prefix + " " + format(dt, '%H') + ":" + format(dt, '%M') + ":" + format(dt, '%S') + "]: " + message
+            f.write(msg)
+            print(msg)
 
     def main(self):
         self.log("Starting Twitter Bot", WarnLevel.INFO)
@@ -168,7 +171,11 @@ class TwitterBot():
         async def on_message(message):
             if (message.author.id == 832731781231804447 or message.author.id == 362779255634919424) and not "I'm " in message.content: # IFTTT Bot or me
                 await message.channel.send("getting twitter tickets...")
-                await message.channel.send(self.get_tickets(message.content))
+                try:
+                    await message.channel.send(self.get_tickets(message.content))
+                except:
+                    self.log("Tweet did not include ticket information", WarnLevel.INFO)
+                    self.driver.close()
                 return
 
             if message.content.startswith('tickets'):

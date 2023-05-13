@@ -1077,3 +1077,92 @@ Date: 5/28
 Should purchase: True
 
 [INFO 14:35:27]:Messaged user
+
+[INFO 14:44:54]:Starting Twitter Bot
+
+[INFO 14:45:11]:Metlife show found, purchasing
+
+[INFO 14:45:11]:
+Location: Detroit at Ford Field Stadium
+Price: $891
+Quantity: 1
+Seller: kenpettywap
+Date: 5/28
+Should purchase: True
+
+[INFO 14:45:18]:Starting Twitter Bot
+
+[INFO 14:46:15]:Metlife show found, purchasing
+
+[INFO 14:46:15]:
+Location: Detroit at Ford Field Stadium
+Price: $891
+Quantity: 1
+Seller: kenpettywap
+Date: 5/28
+Should purchase: True
+
+[INFO 14:46:26]:Starting Twitter Bot
+
+[INFO 16:48:31]:Starting Twitter Bot
+
+[INFO 15:41:25]:Starting Twitter Bot
+
+[INFO 1:10:29]:Starting Twitter Bot
+
+[INFO 19:0:45]:
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 5/14
+Should purchase: False
+
+[WARN 19:0:45]:Already messaged this user
+
+[INFO 19:2:7]:
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 5/21
+Should purchase: True
+
+[WARN 19:2:7]:Already messaged this user
+
+[INFO 19:3:46]:Starting Twitter Bot
+
+[INFO 19:4:17]: Starting Twitter Bot
+
+[INFO 19:5:19]: Metlife show found, purchasing
+
+[INFO 19:5:19]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 5/28
+Should purchase: True
+
+[WARN 19:5:19]: Already messaged this user
+
+[INFO 19:5:38]: Starting Twitter Bot
+
+[INFO 19:5:56]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 6/14
+Should purchase: True
+
+[INFO 19:7:48]: Messaged user
+
+[INFO 19:9:19]: Starting Twitter Bot
+
+[INFO 19:10:21]: Starting Twitter Bot
+
+[INFO 19:10:34]: Tweet did not include ticket information
+
+
+[INFO 19:20:03]: Starting Twitter Bot
