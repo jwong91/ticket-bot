@@ -103,12 +103,13 @@ class TwitterBot():
         options = FirefoxOptions()
         # options.add_argument("--headless")
         self.driver = webdriver.Firefox(options=options, service=Service(gecko().install()))
+        # print(self.driver.)
 
         TwitterBot.twitter_login(self)
         self.driver.implicitly_wait(8)
 
         location = re.search(r"show in.*?/", message_content).group().replace("show in", "").replace("on", "")[:-2].rstrip().lstrip()
-        price = re.search(r"Selling for \$(\d+) ", message_content).group().replace("Selling for ", "").rstrip().lstrip()
+        price = re.search(r"Selling for \$(\d+) |Selling for \$(\d+).(\d+) ", message_content).group().replace("Selling for ", "").rstrip().lstrip()
         quantity = re.search(r"[(](\d+)[)]", message_content).group().replace("(", "").replace(")", "")
         seller_username = re.search(r"DM *@[A-Za-z0-9_]+", message_content).group().replace("DM", "").replace("@", "").lstrip().rstrip()
         event_date = re.search(r"(\d+/\d+)", message_content).group()
@@ -173,8 +174,8 @@ class TwitterBot():
                 await message.channel.send("getting twitter tickets...")
                 try:
                     await message.channel.send(self.get_tickets(message.content))
-                except:
-                    self.log("Tweet did not include ticket information", WarnLevel.INFO)
+                except Exception as e:
+                    self.log("Tweet did not include ticket information (" + e + ")", WarnLevel.INFO)
                     self.driver.close()
                 return
 
