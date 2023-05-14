@@ -55,7 +55,7 @@ class TwitterBot():
         password_submit_button = self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div[1]/div/div/div/div")
         password_submit_button.click()
         time.sleep(1)
-        self.driver.get("https://twitter.com/ErasTourResell")
+        self.driver.get("https://twitter.com/messages/")
 
     def slow_type(self, text, delay=0.0):
         # Send a text to an element one character at a time with a delay.
@@ -73,7 +73,10 @@ class TwitterBot():
             time.sleep(delay)
 
     def access_messages(self, recipient, message):
-        self.driver.get("https://twitter.com/messages/compose")
+        # self.driver.get("https://twitter.com/messages/")
+        # self.driver.refresh()
+        # time.sleep(1)
+        self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div/a/div/span/span").click()
         self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input").send_keys("@" + recipient)
         ActionChains(self.driver)\
         .send_keys("\ue007")\
@@ -81,7 +84,7 @@ class TwitterBot():
         time.sleep(1)
         # Check to see if the user is the correct one
         user_name = self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[2]/div/div[2]/div/div/div/div[2]/div[1]/div/div/div[2]/div/div/div/span").text[1:]
-        if user_name != recipient:
+        if str.lower(user_name) != str.lower(recipient):
             self.log("User " + recipient + " not found (did not come up first in the search bar)", WarnLevel.ERROR)
             return
 
@@ -95,18 +98,20 @@ class TwitterBot():
         time.sleep(1)
 
         TwitterBot.slow_type(self, message)
+        self.log("Messaged user", WarnLevel.INFO)
         # self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[3]/div").click()
         input("waiting for supervisor confirmation...")
 
     def get_tickets(self, message_content):
-        # config options and open browser
-        options = FirefoxOptions()
-        # options.add_argument("--headless")
-        self.driver = webdriver.Firefox(options=options, service=Service(gecko().install()))
-        # print(self.driver.)
+        if not self.driver:
+            # config options and open browser
+            options = FirefoxOptions()
+            # options.add_argument("--headless")
+            self.driver = webdriver.Firefox(options=options, service=Service(gecko().install()))
+            # print(self.driver.)
 
-        TwitterBot.twitter_login(self)
-        self.driver.implicitly_wait(8)
+            TwitterBot.twitter_login(self)
+            self.driver.implicitly_wait(8)
 
         location = re.search(r"show in.*?/", message_content).group().replace("show in", "").replace("on", "")[:-2].rstrip().lstrip()
         price = re.search(r"Selling for \$(\d+) |Selling for \$(\d+).(\d+) ", message_content).group().replace("Selling for ", "").rstrip().lstrip()
@@ -129,13 +134,12 @@ class TwitterBot():
             else:
                 message = "Hey there! I'm interested in your Taylor Swift tickets. I'm willing to pay the listed price for them. Please let me know if you're interested. Thanks!"
                 self.access_messages(seller_username, message + stats)
-                self.log("Messaged user", WarnLevel.INFO)
 
         # Keep track of who has been messaged
         with open("dm_list.txt", "a+") as f:
             f.write(seller_username + "\n")
 
-        self.driver.close()
+        # self.driver.close()
         return stats
 
     def log(self, message, type):
@@ -153,6 +157,7 @@ class TwitterBot():
             print(msg)
 
     def main(self):
+        self.driver = None
         self.log("Starting Twitter Bot", WarnLevel.INFO)
         try:
             with open("../secrets.json") as f:
@@ -175,8 +180,9 @@ class TwitterBot():
                 try:
                     await message.channel.send(self.get_tickets(message.content))
                 except Exception as e:
-                    self.log("Tweet did not include ticket information (" + e + ")", WarnLevel.INFO)
-                    self.driver.close()
+                    self.log("Tweet did not include ticket information (" + str(e) + ")", WarnLevel.INFO)
+                    # self.driver.close()
+                self.driver.get("https://twitter.com/messages")
                 return
 
             if message.content.startswith('tickets'):
