@@ -1166,3 +1166,944 @@ Should purchase: True
 
 
 [INFO 19:20:03]: Starting Twitter Bot
+
+[INFO 19:37:59]: Tweet did not include ticket information
+
+[INFO 22:02:55]: Tweet did not include ticket information
+
+[INFO 22:03:14]: Tweet did not include ticket information
+
+[INFO 15:39:50]: Tweet did not include ticket information
+
+[INFO 15:43:58]: Tweet did not include ticket information
+
+[INFO 15:44:06]: Tweet did not include ticket information
+
+[INFO 15:48:10]: Starting Twitter Bot
+
+[INFO 15:50:55]: Tweet did not include ticket information
+
+[INFO 15:58:11]: Starting Twitter Bot
+
+[INFO 15:58:35]: Tweet did not include ticket information
+
+[INFO 16:09:04]: Tweet did not include ticket information
+
+[INFO 16:11:04]: Tweet did not include ticket information
+
+[INFO 16:11:20]: Tweet did not include ticket information
+
+[INFO 16:20:03]: Tweet did not include ticket information
+
+[INFO 16:21:41]: Tweet did not include ticket information
+
+[INFO 16:22:02]: Tweet did not include ticket information
+
+[INFO 16:24:12]: Tweet did not include ticket information
+
+[INFO 16:24:21]: Tweet did not include ticket information
+
+[INFO 16:24:58]: Tweet did not include ticket information
+
+[INFO 16:32:15]: Tweet did not include ticket information
+
+[INFO 16:33:05]: Tweet did not include ticket information
+
+[INFO 16:34:53]: Tweet did not include ticket information
+
+[INFO 16:36:21]: Tweet did not include ticket information
+
+[INFO 16:37:40]: Tweet did not include ticket information
+
+[INFO 16:42:59]: Tweet did not include ticket information
+
+[INFO 16:47:13]: Tweet did not include ticket information
+
+[INFO 17:04:56]: Tweet did not include ticket information
+
+[INFO 17:05:05]: Tweet did not include ticket information
+
+[INFO 17:06:08]: Tweet did not include ticket information
+
+[INFO 17:06:42]: Starting Twitter Bot
+
+[INFO 17:06:52]: Tweet did not include ticket information
+
+[INFO 17:07:50]: Tweet did not include ticket information
+
+[INFO 17:08:31]: Starting Twitter Bot
+
+[INFO 17:09:28]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/14
+Should purchase: False
+
+[WARN 17:09:28]: Already messaged this user
+
+[INFO 17:11:45]: Starting Twitter Bot
+
+[INFO 17:12:06]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483.25
+Quantity: 2
+Seller: Jdic_
+Date: 5/14
+Should purchase: False
+
+[WARN 17:12:06]: Already messaged this user
+
+[INFO 17:12:30]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/14
+Should purchase: False
+
+[WARN 17:12:30]: Already messaged this user
+
+[INFO 17:14:16]: Starting Twitter Bot
+
+[INFO 17:21:25]: Starting Twitter Bot
+
+[INFO 17:22:28]: Starting Twitter Bot
+
+[INFO 17:23:25]: Starting Twitter Bot
+
+[INFO 17:23:49]: Starting Twitter Bot
+
+[INFO 17:23:58]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:24:23]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:26:29]: Starting Twitter Bot
+
+[INFO 17:26:41]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:26:49]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:26:57]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:27:15]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483.25
+Quantity: 2
+Seller: Jdic_
+Date: 5/14
+Should purchase: False
+
+[WARN 17:27:15]: Already messaged this user
+
+[INFO 17:27:36]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/14
+Should purchase: False
+
+[WARN 17:27:36]: Already messaged this user
+
+[INFO 17:27:55]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/29
+Should purchase: True
+
+[INFO 17:28:04]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:29:39]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/29
+Should purchase: True
+
+[INFO 17:29:48]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:30:22]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/14
+Should purchase: False
+
+[WARN 17:30:22]: Already messaged this user
+
+[INFO 17:30:38]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:30:47]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:31:43]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:31:52]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:32:36]: Starting Twitter Bot
+
+[INFO 17:32:51]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:33:23]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:33:29]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:34:41]: Starting Twitter Bot
+
+[INFO 17:34:52]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:35:00]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:35:02]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:35:04]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:35:12]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:35:21]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:35:47]: Starting Twitter Bot
+
+[INFO 17:35:57]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:36:01]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:36:03]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:36:04]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:36:10]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:36:21]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:36:38]: Starting Twitter Bot
+
+[INFO 17:36:57]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:37:09]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:37:50]: Starting Twitter Bot
+
+[INFO 17:38:15]: Starting Twitter Bot
+
+[INFO 17:38:30]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[ERROR 17:38:40]: User Jdic_ not found (did not come up first in the search bar)
+
+[INFO 17:38:40]: Messaged user
+
+[INFO 17:40:08]: Starting Twitter Bot
+
+[INFO 17:40:24]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[WARN 17:40:24]: Already messaged this user
+
+[INFO 17:40:33]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:40:42]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:41:21]: Starting Twitter Bot
+
+[INFO 17:41:39]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:41:48]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:42:11]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:42:23]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:42:32]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 17:43:05]: Starting Twitter Bot
+
+[INFO 17:43:23]: Starting Twitter Bot
+
+[INFO 17:43:36]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:43:58]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:44:06]: Messaged user
+
+[INFO 17:45:02]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[WARN 17:45:02]: Already messaged this user
+
+[INFO 17:45:10]: Starting Twitter Bot
+
+[INFO 17:45:22]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:45:37]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:45:51]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:45:57]: Messaged user
+
+[INFO 17:46:19]: Starting Twitter Bot
+
+[INFO 17:47:02]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:47:15]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:47:22]: Messaged user
+
+[INFO 17:48:10]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:51:23]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:51:50]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:51:59]: Starting Twitter Bot
+
+[INFO 17:52:29]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:52:37]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:53:01]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 17:53:14]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 17:53:21]: Messaged user
+
+[INFO 17:57:36]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:00:36]: Starting Twitter Bot
+
+[INFO 18:00:50]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:01:02]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[WARN 18:01:02]: Already messaged this user
+
+[INFO 18:01:22]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[ERROR 18:01:23]: User Jdic_ not found (did not come up first in the search bar)
+
+[INFO 18:02:00]: Starting Twitter Bot
+
+[INFO 18:02:11]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:02:22]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 18:02:26]: Messaged user
+
+[INFO 18:02:37]: Starting Twitter Bot
+
+[INFO 18:02:49]: Starting Twitter Bot
+
+[INFO 18:02:59]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:04:11]: Starting Twitter Bot
+
+[INFO 18:04:21]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:04:35]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[WARN 18:04:35]: Already messaged this user
+
+[INFO 18:04:57]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 18:05:01]: Tweet did not include ticket information (Message: Element <div class=""> is not reachable by keyboard
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.jsm:302:5
+webdriverSendKeysToElement@chrome://remote/content/marionette/interaction.js:625:13
+interaction.sendKeysToElement@chrome://remote/content/marionette/interaction.js:601:11
+sendKeysToElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.jsm:504:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.jsm:152:31
+)
+
+[INFO 18:06:24]: Starting Twitter Bot
+
+[INFO 18:06:36]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:06:51]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $483
+Quantity: 2
+Seller: Jdic_
+Date: 5/30
+Should purchase: True
+
+[INFO 18:06:55]: Messaged user
+
+[INFO 18:08:31]: Starting Twitter Bot
+
+[INFO 18:08:42]: Tweet did not include ticket information (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+[INFO 18:08:54]: Starting Twitter Bot
+
+[INFO 18:09:04]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:09:26]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 5/14
+Should purchase: False
+
+[WARN 18:09:26]: Already messaged this user
+
+[INFO 18:10:06]: Starting Twitter Bot
+
+[INFO 18:10:19]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:10:57]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 5/11
+Should purchase: False
+
+[WARN 18:10:57]: Already messaged this user
+
+[INFO 18:11:31]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 5/31
+Should purchase: True
+
+[INFO 18:11:37]: Messaged user
+
+[INFO 18:12:09]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:14:13]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 18:28:01]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 5/27
+Should purchase: True
+
+[WARN 18:28:01]: Already messaged this user
+
+[INFO 18:28:19]: Metlife show found, purchasing
+
+[INFO 18:28:19]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 5/28
+Should purchase: True
+
+[INFO 18:28:26]: Messaged user
+
+[INFO 20:59:22]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $485
+Quantity: 1
+Seller: AlexHCraw
+Date: 5/14
+Should purchase: False
+
+[WARN 20:59:22]: Already messaged this user
+
+[INFO 20:59:22]: 
+Location: Philadelphia at Lincoln Financial Field Stadium TONIGHT
+Price: $485
+Quantity: 1
+Seller: AlexHCraw
+Date: 5/14
+Should purchase: False
+
+[WARN 20:59:22]: Already messaged this user
+
+[INFO 20:59:49]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 21:38:19]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 10:31:47]: Starting Twitter Bot
+
+[INFO 15:06:05]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 16:14:59]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 19:21:03]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 19:21:06]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 19:33:02]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 20:29:54]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:11:21]: Starting Twitter Bot
+
+[INFO 12:15:40]: 
+Location: East Rutherford at Metlife Stadium
+Price: $886
+Quantity: 2
+Seller: cauliflowerwing
+Date: 5/27
+Should purchase: True
+
+[INFO 12:15:48]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 12:15:49]: 
+Location: East Rutherford at Metlife Stadium
+Price: $886
+Quantity: 2
+Seller: cauliflowerwing
+Date: 5/27
+Should purchase: True
+
+[INFO 12:15:58]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 12:16:38]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:17:56]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: bridgettechs
+Date: 5/20
+Should purchase: True
+
+[INFO 12:18:01]: Messaged user
+
+[INFO 12:19:24]: Starting Twitter Bot
+
+[INFO 12:24:15]: Starting Twitter Bot
+
+[INFO 12:24:27]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:24:45]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/20
+Should purchase: True
+
+[INFO 12:24:52]: Messaged user
+
+[INFO 12:26:51]: Starting Twitter Bot
+
+[INFO 12:27:04]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:27:29]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:27:29]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/21
+Should purchase: True
+
+[WARN 12:27:29]: Already messaged this user
+
+[INFO 12:29:07]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/22
+Should purchase: True
+
+[INFO 12:29:17]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[2]/div/div/div/div/div/label/div[1]/div/div/div/div/div/div[2]/div/div/div/div
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 12:29:34]: Starting Twitter Bot
+
+[INFO 12:29:46]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:30:26]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/23
+Should purchase: True
+
+[INFO 12:30:36]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[2]/div/div/div/div/div/label/div[1]/div/div/div/div/div/div[2]/div/div/div/div
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 12:31:54]: Starting Twitter Bot
+
+[INFO 12:32:08]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:32:39]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/25
+Should purchase: True
+
+[INFO 12:32:49]: Tweet did not include ticket information (Message: Unable to locate element: /html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[2]/div/div/div/div/div/label/div[1]/div/div/div/div/div/div[2]/div/div/div/div
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.jsm:12:1
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:404:5
+element.find/</<@chrome://remote/content/marionette/element.js:291:16
+)
+
+[INFO 12:33:58]: Starting Twitter Bot
+
+[INFO 12:34:17]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:34:40]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/26
+Should purchase: True
+
+[INFO 12:34:46]: Messaged user
+
+[INFO 12:35:48]: Starting Twitter Bot
+
+[INFO 12:35:59]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:36:33]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/27
+Should purchase: True
+
+[INFO 12:36:39]: Messaged user
+
+[INFO 12:40:18]: Starting Twitter Bot
+
+[INFO 12:40:27]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:40:54]: Metlife show found, purchasing
+
+[INFO 12:40:54]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/28
+Should purchase: True
+
+[INFO 12:41:01]: Messaged user
+
+[INFO 12:41:10]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:41:46]: Starting Twitter Bot
+
+[INFO 12:42:00]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 12:42:42]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/29
+Should purchase: True
+
+[INFO 12:42:50]: Messaged user
+
+[INFO 12:43:54]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 5/30
+Should purchase: True
+
+[INFO 12:44:02]: Messaged user
+
+[INFO 12:51:44]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 13:55:03]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:11:17]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:11:19]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:16:03]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:16:28]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:18:03]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:18:04]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:19:03]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:19:04]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:42:42]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:45:19]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:46:47]: 
+Location: Detroit at Ford Field Stadium
+Price: $961
+Quantity: 3
+Seller: diannashIey
+Date: 6/9
+Should purchase: True
+
+[INFO 14:46:54]: Messaged user
+
+[INFO 14:46:56]: 
+Location: Detroit at Ford Field Stadium
+Price: $961
+Quantity: 3
+Seller: diannashIey
+Date: 6/9
+Should purchase: True
+
+[WARN 14:46:56]: Already messaged this user
+
+[INFO 14:54:05]: Starting Twitter Bot
+
+[INFO 14:55:42]: Starting Twitter Bot
+
+[INFO 14:55:58]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:56:00]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')
+
+[INFO 14:56:43]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 6/1
+Should purchase: True
+
+[WARN 14:56:43]: Already messaged this user
+
+[INFO 14:57:21]: 
+Location: Philadelphia at Lincoln Financial Field Stadium
+Price: $327
+Quantity: 1
+Seller: utahzen
+Date: 6/2
+Should purchase: True
+
+[INFO 14:57:30]: Messaged user
+
+[INFO 14:58:40]: Tweet did not include ticket information ('NoneType' object has no attribute 'group')

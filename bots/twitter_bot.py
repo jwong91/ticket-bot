@@ -16,7 +16,7 @@ import random
 import json
 from enum import Enum
 
-MIN_ADVANCE_DAYS = 7 # days
+MIN_ADVANCE_DAYS = 3 # days
 
 class WarnLevel(Enum):
     INFO = 1
@@ -95,12 +95,12 @@ class TwitterBot():
         self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[1]/div/div/div/div/div/div[3]/div/div/div/span/span").click()
         time.sleep(0.5)
         self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[2]/div/div/div/div/div/label/div[1]/div/div/div/div/div/div[2]/div/div/div/div").click()
-        time.sleep(1)
+        time.sleep(0.5)
 
         TwitterBot.slow_type(self, message)
         self.log("Messaged user", WarnLevel.INFO)
-        # self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[3]/div").click()
-        input("waiting for supervisor confirmation...")
+        self.driver.find_element_by_xpath("/html/body/div[1]/div/div/div[2]/main/div/div/div/section[2]/div/div/div[2]/div/div/aside/div[2]/div[3]/div").click()
+        # input("waiting for supervisor confirmation...")
 
     def get_tickets(self, message_content):
         if not self.driver:
@@ -132,8 +132,8 @@ class TwitterBot():
             if seller_username in dm_list or not shouldPurchase:
                 self.log("Already messaged this user", WarnLevel.WARN)
             else:
-                message = "Hey there! I'm interested in your Taylor Swift tickets. I'm willing to pay the listed price for them. Please let me know if you're interested. Thanks!"
-                self.access_messages(seller_username, message + stats)
+                message = "Hi!! I'm interested in your Taylor Swift tickets. I have G&S. My boyfriend and I couldn't get tickets during the initial Verified Fan presale 😭 We already booked an AirBnB for the concert. If you could help a poor swiftie couple out that would be amazing 🫶🫶!! Thank you 😭😭😭"
+                self.access_messages(seller_username, message)
 
         # Keep track of who has been messaged
         with open("dm_list.txt", "a+") as f:

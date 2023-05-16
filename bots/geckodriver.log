@@ -4536,3 +4536,1378 @@ Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
 JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
 JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1684021070164	geckodriver	INFO	Listening on 127.0.0.1:53507
+1684021070736	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7Dvmlp"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684021071311	Marionette	INFO	Marionette enabled
+1684021071315	Marionette	INFO	Listening on port 33869
+WebDriver BiDi listening on ws://127.0.0.1:46703
+Read port: 33869
+1684021071597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Dvmlp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46703/devtools/browser/7076eddb-c74e-4cda-9cbf-f0881ddbbed6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 83: Error: ApiError: https://api.twitter.com/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1684021079677	Marionette	INFO	Stopped listening on port 33869
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1684029767634	geckodriver	INFO	Listening on 127.0.0.1:34573
+1684029768168	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBodtuN"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684029768723	Marionette	INFO	Marionette enabled
+1684029768726	Marionette	INFO	Listening on port 34159
+Read port: 34159
+WebDriver BiDi listening on ws://127.0.0.1:57935
+1684029768812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBodtuN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57935/devtools/browser/b5129b87-c1a8-4ffc-a799-27736c82ff03
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684029774977	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684029775835	Marionette	INFO	Stopped listening on port 34159
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684029787236	geckodriver	INFO	Listening on 127.0.0.1:56639
+1684029787755	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiless45a1"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684029788243	Marionette	INFO	Marionette enabled
+1684029788246	Marionette	INFO	Listening on port 39877
+WebDriver BiDi listening on ws://127.0.0.1:46107
+Read port: 39877
+1684029788461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiless45a1/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46107/devtools/browser/d27cd60d-dc73-4c6f-a87c-0ed6ce9fb165
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684029793890	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684029794727	Marionette	INFO	Stopped listening on port 39877
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684093846552	geckodriver	INFO	Listening on 127.0.0.1:45665
+1684093847128	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX35gZ1"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684093847683	Marionette	INFO	Marionette enabled
+1684093847686	Marionette	INFO	Listening on port 37865
+Read port: 37865
+WebDriver BiDi listening on ws://127.0.0.1:40847
+1684093847770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX35gZ1/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40847/devtools/browser/20005f73-4cc7-4ffc-8fe5-f63b155d1569
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684093855049	Marionette	INFO	Stopped listening on port 37865
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684094306728	geckodriver	INFO	Listening on 127.0.0.1:45429
+1684094307263	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejX77Hz"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684094307764	Marionette	INFO	Marionette enabled
+1684094307767	Marionette	INFO	Listening on port 46117
+Read port: 46117
+WebDriver BiDi listening on ws://127.0.0.1:43769
+1684094307917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejX77Hz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43769/devtools/browser/6106e6c6-26b9-4b78-950a-33889465733f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684094315305	Marionette	INFO	Stopped listening on port 46117
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684094936469	geckodriver	INFO	Listening on 127.0.0.1:43623
+1684094937012	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelTq5FG"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684094937545	Marionette	INFO	Marionette enabled
+1684094937548	Marionette	INFO	Listening on port 44859
+Read port: 44859
+WebDriver BiDi listening on ws://127.0.0.1:43289
+1684094937655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelTq5FG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43289/devtools/browser/853a7919-048f-42f9-9d20-79beb2b0c63c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684094943819	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684094944864	Marionette	INFO	Stopped listening on port 44859
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1684095056186	geckodriver	INFO	Listening on 127.0.0.1:53465
+1684095056727	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3IC6XZ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684095057222	Marionette	INFO	Marionette enabled
+1684095057226	Marionette	INFO	Listening on port 37525
+WebDriver BiDi listening on ws://127.0.0.1:56779
+Read port: 37525
+1684095057367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3IC6XZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56779/devtools/browser/51c6b133-8608-4471-95a1-21e9e7c5c31c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 83: Error: ApiError: https://api.twitter.com/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1684095064396	Marionette	INFO	Stopped listening on port 37525
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684095065290	geckodriver	INFO	Listening on 127.0.0.1:34429
+1684095065864	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOFnOGn"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684095066354	Marionette	INFO	Marionette enabled
+1684095066357	Marionette	INFO	Listening on port 44523
+WebDriver BiDi listening on ws://127.0.0.1:49199
+Read port: 44523
+1684095066503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOFnOGn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49199/devtools/browser/6dab0db5-5ea8-4870-b8c0-c6732a8010ec
+1684095070361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1684095074103	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1684095077954	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684095079241	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 83: Error: ApiError: https://twitter.com/i/api/graphql/Yw1pKqHDSlwP4RIHPVA1gg/HomeTimeline HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 83: Error: ApiError: https://twitter.com/i/api/1.1/strato/column/None/987904541403295744,Linux%2FFirefox,pushNotifications/clients/permissionsState HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 83: Error: ApiError: https://api.twitter.com/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1684095080190	Marionette	INFO	Stopped listening on port 44523
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1684095595629	geckodriver	INFO	Listening on 127.0.0.1:56685
+1684095596167	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX9rKau"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684095596656	Marionette	INFO	Marionette enabled
+1684095596659	Marionette	INFO	Listening on port 36345
+WebDriver BiDi listening on ws://127.0.0.1:37639
+Read port: 36345
+1684095596858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX9rKau/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37639/devtools/browser/3ea85ffb-d300-414b-b275-e1e7416141a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684095602728	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684095603668	Marionette	INFO	Stopped listening on port 36345
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684095691207	geckodriver	INFO	Listening on 127.0.0.1:55823
+1684095691747	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMZMi01"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684095692225	Marionette	INFO	Marionette enabled
+1684095692228	Marionette	INFO	Listening on port 35903
+Read port: 35903
+WebDriver BiDi listening on ws://127.0.0.1:55899
+1684095692386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMZMi01/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55899/devtools/browser/8ffdbade-cd70-49e1-bb81-ccd7263616c4
+1684095696241	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1684095701493	Marionette	INFO	Stopped listening on port 35903
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1684095715291	geckodriver	INFO	Listening on 127.0.0.1:59789
+1684095715827	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8tmW0b"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684095716343	Marionette	INFO	Marionette enabled
+1684095716346	Marionette	INFO	Listening on port 33121
+WebDriver BiDi listening on ws://127.0.0.1:43351
+Read port: 33121
+1684095716539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8tmW0b/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43351/devtools/browser/2dcdd636-90a6-42fc-a594-bc0df009a53d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684095722011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684095722926	Marionette	INFO	Stopped listening on port 33121
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684095844346	geckodriver	INFO	Listening on 127.0.0.1:36203
+1684095844884	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5fOzdT"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684095845350	Marionette	INFO	Marionette enabled
+1684095845353	Marionette	INFO	Listening on port 45281
+Read port: 45281
+WebDriver BiDi listening on ws://127.0.0.1:57771
+1684095845430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5fOzdT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57771/devtools/browser/d1af07cf-fca5-49ad-b462-d7b88fe04e14
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684095851744	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684095852659	Marionette	INFO	Stopped listening on port 45281
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684095853483	geckodriver	INFO	Listening on 127.0.0.1:53035
+1684095854024	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepV3oGd"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684095854491	Marionette	INFO	Marionette enabled
+1684095854494	Marionette	INFO	Listening on port 46629
+Read port: 46629
+WebDriver BiDi listening on ws://127.0.0.1:49183
+1684095854605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepV3oGd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49183/devtools/browser/830e1821-be00-41d4-a697-0cf4094a80b5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684095860470	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684095861401	Marionette	INFO	Stopped listening on port 46629
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684095890547	geckodriver	INFO	Listening on 127.0.0.1:37735
+1684095891083	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFrE3CP"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684095891545	Marionette	INFO	Marionette enabled
+1684095891548	Marionette	INFO	Listening on port 32835
+Read port: 32835
+WebDriver BiDi listening on ws://127.0.0.1:56139
+1684095891649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFrE3CP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56139/devtools/browser/6e33bfe5-cb85-4d9c-a570-571fb887b5a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684095897250	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684095898177	Marionette	INFO	Stopped listening on port 32835
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684096327265	geckodriver	INFO	Listening on 127.0.0.1:57721
+1684096327807	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJSushX"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684096328310	Marionette	INFO	Marionette enabled
+1684096328313	Marionette	INFO	Listening on port 34175
+Read port: 34175
+WebDriver BiDi listening on ws://127.0.0.1:47125
+1684096328446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJSushX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47125/devtools/browser/ef9cff61-92fb-493d-8e89-7fbe25793757
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684096334280	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684096335246	Marionette	INFO	Stopped listening on port 34175
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684096375088	geckodriver	INFO	Listening on 127.0.0.1:34853
+1684096375632	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGPDq2L"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684096376100	Marionette	INFO	Marionette enabled
+1684096376102	Marionette	INFO	Listening on port 41509
+WebDriver BiDi listening on ws://127.0.0.1:35671
+Read port: 41509
+1684096376348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGPDq2L/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35671/devtools/browser/8c19eb58-bf42-49cd-9d77-39e1fc4a27d2
+1684096380193	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1684096385413	Marionette	INFO	Stopped listening on port 41509
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684096484972	geckodriver	INFO	Listening on 127.0.0.1:51811
+1684096485512	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9KGZTZ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684096485959	Marionette	INFO	Marionette enabled
+1684096485961	Marionette	INFO	Listening on port 36123
+Read port: 36123
+WebDriver BiDi listening on ws://127.0.0.1:54133
+1684096486085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9KGZTZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54133/devtools/browser/44d7477a-2def-4cf5-bd1d-c4701165f664
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684096493406	Marionette	INFO	Stopped listening on port 36123
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684096574160	geckodriver	INFO	Listening on 127.0.0.1:45887
+1684096574695	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuXJgxP"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684096575153	Marionette	INFO	Marionette enabled
+1684096575156	Marionette	INFO	Listening on port 39021
+Read port: 39021
+WebDriver BiDi listening on ws://127.0.0.1:39421
+1684096575271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuXJgxP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39421/devtools/browser/969ba871-e67b-4ff0-9c67-9df7f0706ddb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684096581019	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684096581944	Marionette	INFO	Stopped listening on port 39021
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684096653217	geckodriver	INFO	Listening on 127.0.0.1:56273
+1684096653755	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVK7Enq"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684096654265	Marionette	INFO	Marionette enabled
+1684096654268	Marionette	INFO	Listening on port 43907
+WebDriver BiDi listening on ws://127.0.0.1:48209
+Read port: 43907
+1684096654472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVK7Enq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48209/devtools/browser/3a5d31cd-f88b-4d2c-bfc7-b11a1f275550
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684096660140	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684096660895	Marionette	INFO	Stopped listening on port 43907
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684096971986	geckodriver	INFO	Listening on 127.0.0.1:38127
+1684096972529	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevk15Od"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684096973036	Marionette	INFO	Marionette enabled
+1684096973039	Marionette	INFO	Listening on port 33567
+WebDriver BiDi listening on ws://127.0.0.1:35969
+Read port: 33567
+1684096973239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevk15Od/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35969/devtools/browser/9118b67e-dce7-48f0-8a5a-ad75be459d71
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684096979176	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684096979906	Marionette	INFO	Stopped listening on port 33567
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1684097225477	geckodriver	INFO	Listening on 127.0.0.1:60557
+1684097226016	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen3TnLC"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684097226471	Marionette	INFO	Marionette enabled
+1684097226474	Marionette	INFO	Listening on port 40727
+Read port: 40727
+WebDriver BiDi listening on ws://127.0.0.1:33165
+1684097226570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen3TnLC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33165/devtools/browser/5017d3aa-10a2-415a-98f1-8f61423437c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684097233539	Marionette	INFO	Stopped listening on port 40727
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+console.warn: services.settings: main/quicksuggest sync interrupted by shutdown
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684098288232	geckodriver	INFO	Listening on 127.0.0.1:50025
+1684098288807	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAwz0xD"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098289277	Marionette	INFO	Marionette enabled
+1684098289280	Marionette	INFO	Listening on port 36409
+Read port: 36409
+WebDriver BiDi listening on ws://127.0.0.1:55097
+1684098289404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAwz0xD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55097/devtools/browser/b4b266c8-23f2-4923-b980-a4f8a9577d59
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098295631	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684098296460	Marionette	INFO	Stopped listening on port 36409
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684098297228	geckodriver	INFO	Listening on 127.0.0.1:33711
+1684098297757	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex34rWL"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098298272	Marionette	INFO	Marionette enabled
+1684098298275	Marionette	INFO	Listening on port 39611
+Read port: 39611
+WebDriver BiDi listening on ws://127.0.0.1:57345
+1684098298404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex34rWL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57345/devtools/browser/16d0a8a8-8580-4431-b7c9-63ffc36b8dae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098304149	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684098305074	Marionette	INFO	Stopped listening on port 39611
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684098361033	geckodriver	INFO	Listening on 127.0.0.1:34577
+1684098361551	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTd4PCW"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098362005	Marionette	INFO	Marionette enabled
+1684098362008	Marionette	INFO	Listening on port 42019
+Read port: 42019
+WebDriver BiDi listening on ws://127.0.0.1:41909
+1684098362135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTd4PCW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41909/devtools/browser/95489262-56ee-46da-9b5d-22a9ec77934b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098368013	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684098368911	Marionette	INFO	Stopped listening on port 42019
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684098404611	geckodriver	INFO	Listening on 127.0.0.1:54629
+1684098405189	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile785pLw"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098405673	Marionette	INFO	Marionette enabled
+1684098405676	Marionette	INFO	Listening on port 39949
+WebDriver BiDi listening on ws://127.0.0.1:41945
+Read port: 39949
+1684098405915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile785pLw/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41945/devtools/browser/e859c68e-a137-4647-90e0-3d2126ea1d19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098411522	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684098412367	Marionette	INFO	Stopped listening on port 39949
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684098462543	geckodriver	INFO	Listening on 127.0.0.1:41577
+1684098463119	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKaoud6"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098463573	Marionette	INFO	Marionette enabled
+1684098463576	Marionette	INFO	Listening on port 40227
+Read port: 40227
+WebDriver BiDi listening on ws://127.0.0.1:33929
+1684098463677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKaoud6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33929/devtools/browser/7e8bfe02-86dc-4ae0-aa6b-752aa324eef0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098469604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684098470468	Marionette	INFO	Stopped listening on port 40227
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684098516482	geckodriver	INFO	Listening on 127.0.0.1:40073
+1684098517056	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKQsmS6"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098517532	Marionette	INFO	Marionette enabled
+1684098517535	Marionette	INFO	Listening on port 38847
+Read port: 38847
+WebDriver BiDi listening on ws://127.0.0.1:42427
+1684098517635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKQsmS6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42427/devtools/browser/e574c26a-dfa0-439f-b23a-022fbb333e8c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098524112	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684098561024	geckodriver	INFO	Listening on 127.0.0.1:39959
+1684098561591	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8vVr2p"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098562083	Marionette	INFO	Marionette enabled
+1684098562086	Marionette	INFO	Listening on port 41803
+Read port: 41803
+WebDriver BiDi listening on ws://127.0.0.1:47751
+1684098562163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8vVr2p/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47751/devtools/browser/93c5312f-fb12-45a3-8e8c-55a3963d118e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098567627	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684098568575	Marionette	INFO	Stopped listening on port 41803
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1684098615656	Marionette	INFO	Stopped listening on port 38847
+1684098717569	geckodriver	INFO	Listening on 127.0.0.1:55141
+1684098718140	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegEgjBz"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098718603	Marionette	INFO	Marionette enabled
+1684098718606	Marionette	INFO	Listening on port 37107
+Read port: 37107
+WebDriver BiDi listening on ws://127.0.0.1:43541
+1684098718721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegEgjBz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43541/devtools/browser/1d89c89f-da8d-4414-bf94-cdf009269819
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098726384	Marionette	INFO	Stopped listening on port 37107
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684098742777	geckodriver	INFO	Listening on 127.0.0.1:56909
+1684098743315	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezxveho"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098743791	Marionette	INFO	Marionette enabled
+1684098743794	Marionette	INFO	Listening on port 45211
+WebDriver BiDi listening on ws://127.0.0.1:55295
+Read port: 45211
+1684098744057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezxveho/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55295/devtools/browser/54947a81-c8e7-4506-8ba2-3f5a231f8cb5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098749842	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684098750773	Marionette	INFO	Stopped listening on port 45211
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684098773987	geckodriver	INFO	Listening on 127.0.0.1:60225
+1684098774556	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevV6obL"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098775015	Marionette	INFO	Marionette enabled
+1684098775017	Marionette	INFO	Listening on port 39401
+Read port: 39401
+WebDriver BiDi listening on ws://127.0.0.1:60675
+1684098775128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevV6obL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60675/devtools/browser/9403909b-6108-48dc-aadd-e84034cf1c0a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098780666	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684098803872	geckodriver	INFO	Listening on 127.0.0.1:53227
+1684098804448	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev2UNFh"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684098804911	Marionette	INFO	Marionette enabled
+1684098804914	Marionette	INFO	Listening on port 46241
+Read port: 46241
+WebDriver BiDi listening on ws://127.0.0.1:38283
+1684098805029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev2UNFh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38283/devtools/browser/8a53045c-e3d9-480a-a377-1dda78d6730d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684098810563	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684099353009	geckodriver	INFO	Listening on 127.0.0.1:36185
+1684099353579	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileohq6xH"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684099354024	Marionette	INFO	Marionette enabled
+1684099354027	Marionette	INFO	Listening on port 45465
+Read port: 45465
+WebDriver BiDi listening on ws://127.0.0.1:58075
+1684099354160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileohq6xH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58075/devtools/browser/c798dc43-ebfa-4fca-92eb-e798c23370eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684099360574	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684099411066	geckodriver	INFO	Listening on 127.0.0.1:58673
+1684099411635	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileb4ljro"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684099412068	Marionette	INFO	Marionette enabled
+1684099412070	Marionette	INFO	Listening on port 36549
+Read port: 36549
+WebDriver BiDi listening on ws://127.0.0.1:39271
+1684099412201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb4ljro/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39271/devtools/browser/bf597509-c284-4374-a87e-710622445399
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684099418146	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684099431170	geckodriver	INFO	Listening on 127.0.0.1:44365
+1684099431740	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZufmsR"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684099432174	Marionette	INFO	Marionette enabled
+1684099432176	Marionette	INFO	Listening on port 46559
+Read port: 46559
+WebDriver BiDi listening on ws://127.0.0.1:34273
+1684099432296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZufmsR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34273/devtools/browser/774119c2-115b-4212-886e-c09efe066bcc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684099437945	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684099438832	Marionette	INFO	Stopped listening on port 46559
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 74: TypeError: can't access dead object
+1684099594330	geckodriver	INFO	Listening on 127.0.0.1:44121
+1684099594901	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegUOXgK"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684099595335	Marionette	INFO	Marionette enabled
+1684099595338	Marionette	INFO	Listening on port 37645
+Read port: 37645
+WebDriver BiDi listening on ws://127.0.0.1:51117
+1684099595443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegUOXgK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51117/devtools/browser/978917f9-d3a4-4fac-aec5-d401d2985ee8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684099600931	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684099962704	geckodriver	INFO	Listening on 127.0.0.1:49971
+1684099963247	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIIPbg3"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684099963688	Marionette	INFO	Marionette enabled
+1684099963691	Marionette	INFO	Listening on port 37635
+Read port: 37635
+WebDriver BiDi listening on ws://127.0.0.1:44543
+1684099963809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIIPbg3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44543/devtools/browser/b9883714-2666-4611-9dae-8fdf8431a116
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/messages/compose. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:583:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 583, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/messages/compose. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 583))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 583: Error: Failed to fetch https://twitter.com/messages/compose. Code 2152398879.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684100084858	geckodriver	INFO	Listening on 127.0.0.1:36409
+1684100085399	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileccN3It"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684100085850	Marionette	INFO	Marionette enabled
+1684100085852	Marionette	INFO	Listening on port 38915
+Read port: 38915
+WebDriver BiDi listening on ws://127.0.0.1:33675
+1684100085976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileccN3It/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33675/devtools/browser/12ef65c8-a4e9-4012-95f4-0a0faffdb205
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684100091235	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684100149780	geckodriver	INFO	Listening on 127.0.0.1:41197
+1684100150350	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqI9Z83"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684100150804	Marionette	INFO	Marionette enabled
+1684100150806	Marionette	INFO	Listening on port 42567
+Read port: 42567
+WebDriver BiDi listening on ws://127.0.0.1:59213
+1684100150913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqI9Z83/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59213/devtools/browser/4e234561-ab25-4b51-be0d-e2ae51e21354
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684100156510	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1684100195416	Marionette	INFO	Stopped listening on port 42567
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684100209726	geckodriver	INFO	Listening on 127.0.0.1:33163
+1684100210296	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43737" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3YnMWv"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684100210778	Marionette	INFO	Marionette enabled
+1684100210780	Marionette	INFO	Listening on port 37851
+Read port: 37851
+WebDriver BiDi listening on ws://127.0.0.1:43737
+1684100210853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3YnMWv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43737/devtools/browser/cb204a50-f235-47d7-b4c2-91d5ec39d0a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684100217028	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684100302921	geckodriver	INFO	Listening on 127.0.0.1:56743
+1684100303496	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel6hgBA"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684100303988	Marionette	INFO	Marionette enabled
+1684100303991	Marionette	INFO	Listening on port 33487
+WebDriver BiDi listening on ws://127.0.0.1:35335
+Read port: 33487
+1684100304195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel6hgBA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35335/devtools/browser/0355a038-fc02-49ee-a689-cd7f088678fa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684100309974	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684100416132	geckodriver	INFO	Listening on 127.0.0.1:41581
+1684100416671	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYz5M90"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684100417104	Marionette	INFO	Marionette enabled
+1684100417107	Marionette	INFO	Listening on port 36583
+Read port: 36583
+WebDriver BiDi listening on ws://127.0.0.1:37241
+1684100417205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYz5M90/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37241/devtools/browser/65186798-33e8-417d-8c0e-c85e5e60793a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684100423567	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684100491310	geckodriver	INFO	Listening on 127.0.0.1:56369
+1684100491847	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5SyT47"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684100492295	Marionette	INFO	Marionette enabled
+1684100492297	Marionette	INFO	Listening on port 33467
+Read port: 33467
+WebDriver BiDi listening on ws://127.0.0.1:53519
+1684100492399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5SyT47/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53519/devtools/browser/b66ab693-774e-47bd-b8bb-817df00507b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684100498305	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684100609066	geckodriver	INFO	Listening on 127.0.0.1:54179
+1684100609640	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJIKuZJ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684100610091	Marionette	INFO	Marionette enabled
+1684100610093	Marionette	INFO	Listening on port 34967
+Read port: 34967
+WebDriver BiDi listening on ws://127.0.0.1:41425
+1684100610205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJIKuZJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41425/devtools/browser/6c26e42b-b656-4a48-8540-7e9aad969ea2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684100615879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684100714698	geckodriver	INFO	Listening on 127.0.0.1:36993
+1684100715239	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVRG2mE"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684100715697	Marionette	INFO	Marionette enabled
+1684100715701	Marionette	INFO	Listening on port 38349
+Read port: 38349
+WebDriver BiDi listening on ws://127.0.0.1:56841
+1684100715799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVRG2mE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56841/devtools/browser/3885ab43-066a-4e31-b129-8f3758f4d444
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684100721604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684100814498	geckodriver	INFO	Listening on 127.0.0.1:59119
+1684100815072	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEbBqKM"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684100815556	Marionette	INFO	Marionette enabled
+1684100815558	Marionette	INFO	Listening on port 43363
+Read port: 43363
+WebDriver BiDi listening on ws://127.0.0.1:34855
+1684100815628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEbBqKM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34855/devtools/browser/04634d2d-af89-4324-88f7-aff13b4e49a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684100821308	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1684100949564	Marionette	INFO	Stopped listening on port 43363
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684101083150	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1684101141275	geckodriver	INFO	Listening on 127.0.0.1:35593
+1684101141849	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCQ7ssO"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684101142303	Marionette	INFO	Marionette enabled
+1684101142306	Marionette	INFO	Listening on port 40799
+Read port: 40799
+WebDriver BiDi listening on ws://127.0.0.1:33033
+1684101142425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCQ7ssO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33033/devtools/browser/3b6620ad-f276-4a19-8f46-377d2f92086f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684101148404	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1684101194539	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684101643481	geckodriver	INFO	Listening on 127.0.0.1:35495
+1684101644054	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelgHCDx"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684101644501	Marionette	INFO	Marionette enabled
+1684101644504	Marionette	INFO	Listening on port 35299
+Read port: 35299
+WebDriver BiDi listening on ws://127.0.0.1:39497
+1684101644598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelgHCDx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39497/devtools/browser/a192f315-6102-42ea-8f06-3499a2d63e5a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684101650010	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684101723879	geckodriver	INFO	Listening on 127.0.0.1:55909
+1684101724452	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZktzOc"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684101724895	Marionette	INFO	Marionette enabled
+1684101724898	Marionette	INFO	Listening on port 43363
+Read port: 43363
+WebDriver BiDi listening on ws://127.0.0.1:44773
+1684101724987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZktzOc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44773/devtools/browser/8afcfcf4-39ae-41d6-b23f-3c622a673aab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684101731211	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684101771926	geckodriver	INFO	Listening on 127.0.0.1:46309
+1684101772501	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEYXp9z"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684101772941	Marionette	INFO	Marionette enabled
+1684101772943	Marionette	INFO	Listening on port 40763
+Read port: 40763
+WebDriver BiDi listening on ws://127.0.0.1:58765
+1684101773060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEYXp9z/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58765/devtools/browser/0bfa924f-ae09-47ad-b15f-118dcabb4b09
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684101778862	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/messages. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:583:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 583, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/messages. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 583))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 583: Error: Failed to fetch https://twitter.com/messages. Code 2152398879.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684101853442	geckodriver	INFO	Listening on 127.0.0.1:42025
+1684101854001	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0DMoA8"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684101854465	Marionette	INFO	Marionette enabled
+1684101854468	Marionette	INFO	Listening on port 34217
+Read port: 34217
+WebDriver BiDi listening on ws://127.0.0.1:58099
+1684101854574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0DMoA8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58099/devtools/browser/bc86830b-f465-4f82-b5a1-2d41fd833e48
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684101860337	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684101988589	geckodriver	INFO	Listening on 127.0.0.1:33389
+1684101989131	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMDjE0l"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684101989568	Marionette	INFO	Marionette enabled
+1684101989571	Marionette	INFO	Listening on port 36439
+Read port: 36439
+WebDriver BiDi listening on ws://127.0.0.1:45445
+1684101989682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMDjE0l/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45445/devtools/browser/a894d2b0-800c-4a96-99a9-687cb3af751a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684101995644	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684102116919	geckodriver	INFO	Listening on 127.0.0.1:48659
+1684102117455	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNIqShV"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684102117904	Marionette	INFO	Marionette enabled
+1684102117907	Marionette	INFO	Listening on port 43475
+Read port: 43475
+WebDriver BiDi listening on ws://127.0.0.1:59855
+1684102118014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNIqShV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59855/devtools/browser/becd6faa-a301-435d-9574-23cb1eca407e
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684102136351	geckodriver	INFO	Listening on 127.0.0.1:45163
+1684102136891	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebm7zHC"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684102137334	Marionette	INFO	Marionette enabled
+1684102137337	Marionette	INFO	Listening on port 34805
+Read port: 34805
+WebDriver BiDi listening on ws://127.0.0.1:50609
+1684102137439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebm7zHC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50609/devtools/browser/14e0c13d-fe18-40fe-96b7-b26e7caee786
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684102143206	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684102211869	geckodriver	INFO	Listening on 127.0.0.1:33387
+1684102212411	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilew8zL1R"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684102212849	Marionette	INFO	Marionette enabled
+1684102212852	Marionette	INFO	Listening on port 45745
+Read port: 45745
+WebDriver BiDi listening on ws://127.0.0.1:34061
+1684102212946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew8zL1R/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34061/devtools/browser/f54bfbf6-9540-44fc-8b72-f23aff367ed3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684102218914	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+Gdk-Message: 21:55:37.695: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684177556903	geckodriver	INFO	Listening on 127.0.0.1:57361
+1684177557443	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehrq4HX"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684177557982	Marionette	INFO	Marionette enabled
+1684177557986	Marionette	INFO	Listening on port 33467
+Read port: 33467
+WebDriver BiDi listening on ws://127.0.0.1:34545
+1684177558077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehrq4HX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34545/devtools/browser/13e6ae1c-10e8-480c-ba40-5cc21572dd8f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684177564614	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+1684253732276	geckodriver	INFO	Listening on 127.0.0.1:36197
+1684253732815	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSMN4RB"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684253733317	Marionette	INFO	Marionette enabled
+1684253733320	Marionette	INFO	Listening on port 44415
+WebDriver BiDi listening on ws://127.0.0.1:35657
+Read port: 44415
+1684253733535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSMN4RB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35657/devtools/browser/7253e60e-9d01-4315-b420-b8e816b7735e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684253739824	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684254259524	geckodriver	INFO	Listening on 127.0.0.1:39677
+1684254260059	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRFqUOH"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684254260521	Marionette	INFO	Marionette enabled
+1684254260523	Marionette	INFO	Listening on port 40329
+WebDriver BiDi listening on ws://127.0.0.1:53917
+Read port: 40329
+1684254260781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRFqUOH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53917/devtools/browser/6dc398f5-0c8f-497a-86ec-075fe330e88b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684254266949	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684254416264	geckodriver	INFO	Listening on 127.0.0.1:38429
+1684254416835	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSumIX2"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684254417271	Marionette	INFO	Marionette enabled
+1684254417274	Marionette	INFO	Listening on port 45853
+Read port: 45853
+WebDriver BiDi listening on ws://127.0.0.1:57983
+1684254417413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSumIX2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57983/devtools/browser/3c0aa938-ac43-4ebe-8fb6-d25a0f645ae4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684254423314	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684254578343	geckodriver	INFO	Listening on 127.0.0.1:45091
+1684254578915	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6aYepx"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684254579359	Marionette	INFO	Marionette enabled
+1684254579361	Marionette	INFO	Listening on port 33039
+Read port: 33039
+WebDriver BiDi listening on ws://127.0.0.1:40721
+1684254579468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6aYepx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40721/devtools/browser/d0ec3183-3859-4dbf-85a4-b213c5e80fde
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684254585958	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://twitter.com/messages/, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web-legacy/ondemand.BranchSdk.0242099a.js)
+JavaScript error: https://twitter.com/messages/, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web-legacy/ondemand.BranchSdk.0242099a.js)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684254720265	geckodriver	INFO	Listening on 127.0.0.1:37845
+1684254720840	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE9GVVo"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684254721273	Marionette	INFO	Marionette enabled
+1684254721276	Marionette	INFO	Listening on port 35241
+Read port: 35241
+WebDriver BiDi listening on ws://127.0.0.1:42911
+1684254721410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE9GVVo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42911/devtools/browser/41e5b885-b182-4555-b24b-525fde6378cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684254727876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684254849137	geckodriver	INFO	Listening on 127.0.0.1:36185
+1684254849694	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHw3c3f"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684254850156	Marionette	INFO	Marionette enabled
+1684254850159	Marionette	INFO	Listening on port 33813
+Read port: 33813
+WebDriver BiDi listening on ws://127.0.0.1:41513
+1684254850264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHw3c3f/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41513/devtools/browser/c20a4688-8aed-4805-bcd2-b5bc786cb41c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684254856731	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684254951155	geckodriver	INFO	Listening on 127.0.0.1:54851
+1684254951722	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee1zE0i"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684254952149	Marionette	INFO	Marionette enabled
+1684254952152	Marionette	INFO	Listening on port 46775
+Read port: 46775
+WebDriver BiDi listening on ws://127.0.0.1:36091
+1684254952267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee1zE0i/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36091/devtools/browser/e65323aa-89cd-4d2f-a438-cef103ec3812
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684254958315	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684255220834	geckodriver	INFO	Listening on 127.0.0.1:54513
+1684255221405	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "54911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2uYB7n"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684255221641	Marionette	INFO	Marionette enabled
+1684255221644	Marionette	INFO	Listening on port 46291
+WebDriver BiDi listening on ws://127.0.0.1:54911
+Read port: 46291
+1684255221835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2uYB7n/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54911/devtools/browser/f28d412b-2e02-45b1-930f-e2953c8a2b87
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1684255227069	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684255309253	geckodriver	INFO	Listening on 127.0.0.1:40307
+1684255309807	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGJcvQ9"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684255310416	Marionette	INFO	Marionette enabled
+1684255310420	Marionette	INFO	Listening on port 37685
+WebDriver BiDi listening on ws://127.0.0.1:57925
+Read port: 37685
+1684255310663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGJcvQ9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57925/devtools/browser/afda5aa2-d3de-495b-84f4-2b0cd29544e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 83: Error: ApiError: https://api.twitter.com/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684263349234	geckodriver	INFO	Listening on 127.0.0.1:42709
+1684263349781	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGHmCjH"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1684263350352	Marionette	INFO	Marionette enabled
+1684263350355	Marionette	INFO	Listening on port 45497
+WebDriver BiDi listening on ws://127.0.0.1:40385
+Read port: 45497
+1684263350639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGHmCjH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40385/devtools/browser/b559135b-105b-48d3-84e3-5227a1698589
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.3cb7d15a.js, line 83: Error: ApiError: https://api.twitter.com/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
